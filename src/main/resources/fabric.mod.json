@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"net.wizardmode1.WizardmodDataGenerator"
+		],
+		"client": [
+			"net.wizardmode1.WizardmodClient"
 		]
 	},
 	"mixins": [
